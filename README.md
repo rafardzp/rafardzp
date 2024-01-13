@@ -1,4 +1,4 @@
-Hi, I'm Rafa. I am an Artificial Intelligence Master student @ UC3M looking to develop my career in AI in health, aerospace of cybersecurity. 
+Hi, I'm Rafa. I am an Artificial Intelligence Master student @ UC3M looking to develop my career in AI in health, aerospace or cybersecurity industries. 
 In this repository I will be including my work from inside and outside the Master prgram.
 
 <!---
