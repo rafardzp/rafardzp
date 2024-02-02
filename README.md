@@ -3,7 +3,6 @@ In this repository I will be including my work from inside and outside the Maste
 
 I have some things planned for the future (appart from tidying it up):
 - I recently got a new book about GNNs and I am planning on including projects and practical exercises.
-- I will also be working on my Master thesis project code here!
 - I have some courses left to take from the Master program so expect more content soon.
 - One of my interests is Reinforcement Learning and I also got a book about it so expect some RL content too.
 
